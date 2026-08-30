@@ -1,0 +1,16 @@
+https://colab.research.google.com/github/kushnertodd/basic-data-science-python/blob/main/basic_data_science_python.ipynb
+https://colab.research.google.com/github/kushnertodd/basic-data-science-python/blob/main/basic_data_science_python_overview.ipynb
+https://colab.research.google.com/github/kushnertodd/basic-data-science-python/blob/main/basic_data_science_python_strings.ipynb
+https://colab.research.google.com/github/kushnertodd/basic-data-science-python/blob/main/basic_data_science_python_numbers.ipynb
+https://colab.research.google.com/github/kushnertodd/basic-data-science-python/blob/main/basic_data_science_python_booleans.ipynb
+https://colab.research.google.com/github/kushnertodd/basic-data-science-python/blob/main/basic_data_science_python_lists.ipynb
+https://colab.research.google.com/github/kushnertodd/basic-data-science-python/blob/main/basic_data_science_python_sets.ipynb
+https://colab.research.google.com/github/kushnertodd/basic-data-science-python/blob/main/basic_data_science_python_dictionaries.ipynb
+https://colab.research.google.com/github/kushnertodd/basic-data-science-python/blob/main/basic_data_science_python_libraries.ipynb
+https://colab.research.google.com/github/kushnertodd/basic-data-science-python/blob/main/basic_data_science_python_programs.ipynb
+https://colab.research.google.com/github/kushnertodd/basic-data-science-python/blob/main/basic_data_science_python_examples.ipynb
+https://colab.research.google.com/github/kushnertodd/basic-data-science-python/blob/main/basic_data_science_python_environments.ipynb
+
+
+
+
