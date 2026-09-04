@@ -1,0 +1,19 @@
+Here are the markdown and HTML references for that image:
+
+## **Markdown:**
+```markdown
+![Matrix multiply 1x2 by 2x2](https://raw.githubusercontent.com/kushnertodd/basic-data-science-python/main/docs/images/matrix%20multiply%201x2%20by%202x2.png)
+```
+
+## **HTML:**
+```html
+<img src="https://raw.githubusercontent.com/kushnertodd/basic-data-science-python/main/docs/images/matrix%20multiply%201x2%20by%202x2.png" alt="Matrix multiply 1x2 by 2x2">
+```
+
+**Key points:**
+- Both use the **raw.githubusercontent.com** URL (not the github.com blob URL)
+- The `alt` text describes the image for accessibility
+- You can customize the alt text to whatever makes sense for your context
+- These will display the actual image instead of linking to the GitHub page
+
+Copy either format and paste it into your markdown or HTML file!
