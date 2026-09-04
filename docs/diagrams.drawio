@@ -1,4 +1,4 @@
-<mxfile host="Electron">
+<mxfile host="Electron" pages="8">
   <diagram name="strings" id="DW446v-XJPdKWD1h_4gd">
     <mxGraphModel dx="1398" dy="825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -111,6 +111,134 @@
           <mxGeometry height="40" width="60" x="300" as="geometry">
             <mxRectangle height="40" width="60" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AkKpVcxqSIR6mb1oYq6J" name="sets">
+    <mxGraphModel dx="1398" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bYAwnftAowUCHSnGTIQc-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;A&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="240" x="160" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bYAwnftAowUCHSnGTIQc-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;B&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="240" x="450" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bYAwnftAowUCHSnGTIQc-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;sets A and B&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="430" x="210" y="560" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="set difference" id="v70VSTyqxwDPn6fUEq1G">
+    <mxGraphModel dx="1398" dy="825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="v8pDajrJTUgGmuNLiP5E-0" />
+        <mxCell id="v8pDajrJTUgGmuNLiP5E-1" parent="v8pDajrJTUgGmuNLiP5E-0" />
+        <mxCell id="v8pDajrJTUgGmuNLiP5E-2" parent="v8pDajrJTUgGmuNLiP5E-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;A&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="240" x="160" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="v8pDajrJTUgGmuNLiP5E-3" parent="v8pDajrJTUgGmuNLiP5E-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;B&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="240" x="320" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="v8pDajrJTUgGmuNLiP5E-4" parent="v8pDajrJTUgGmuNLiP5E-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;A - B&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Difference&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="550" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="set symmetric difference" id="AIirWgZBtMMSAtOuNZVa">
+    <mxGraphModel dx="1398" dy="825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Zg6_0DIkDBpVbzGg8MI9-0" />
+        <mxCell id="Zg6_0DIkDBpVbzGg8MI9-1" parent="Zg6_0DIkDBpVbzGg8MI9-0" />
+        <mxCell id="Zg6_0DIkDBpVbzGg8MI9-2" parent="Zg6_0DIkDBpVbzGg8MI9-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;A&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="240" x="160" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg6_0DIkDBpVbzGg8MI9-3" parent="Zg6_0DIkDBpVbzGg8MI9-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;B&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="240" x="320" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg6_0DIkDBpVbzGg8MI9-4" parent="Zg6_0DIkDBpVbzGg8MI9-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;A ^ B&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Symmetric Difference&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="550" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="set intersection" id="f5qWrYToyRYuycKogOhe">
+    <mxGraphModel dx="1398" dy="825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="PNrpQDhvORW0SezDjexw-0" />
+        <mxCell id="PNrpQDhvORW0SezDjexw-1" parent="PNrpQDhvORW0SezDjexw-0" />
+        <mxCell id="PNrpQDhvORW0SezDjexw-2" parent="PNrpQDhvORW0SezDjexw-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;A&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="240" x="160" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrpQDhvORW0SezDjexw-3" parent="PNrpQDhvORW0SezDjexw-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;B&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="240" x="320" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrpQDhvORW0SezDjexw-4" parent="PNrpQDhvORW0SezDjexw-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;A ^ B&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Intersection&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="550" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="set union" id="NTuGbPJVgoAqvetdG1CC">
+    <mxGraphModel dx="1398" dy="825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="n7_wKM5KMcRnUlNWr0pD-0" />
+        <mxCell id="n7_wKM5KMcRnUlNWr0pD-1" parent="n7_wKM5KMcRnUlNWr0pD-0" />
+        <mxCell id="n7_wKM5KMcRnUlNWr0pD-2" parent="n7_wKM5KMcRnUlNWr0pD-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;A&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="240" x="160" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n7_wKM5KMcRnUlNWr0pD-3" parent="n7_wKM5KMcRnUlNWr0pD-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;B&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="240" x="320" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n7_wKM5KMcRnUlNWr0pD-4" parent="n7_wKM5KMcRnUlNWr0pD-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;A | B&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Union&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="550" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="disjoint sets" id="hTfji6qursq_xURC7vW_">
+    <mxGraphModel dx="1398" dy="825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="QjW7vAKMdJou_wqxXe_9-0" />
+        <mxCell id="QjW7vAKMdJou_wqxXe_9-1" parent="QjW7vAKMdJou_wqxXe_9-0" />
+        <mxCell id="QjW7vAKMdJou_wqxXe_9-2" parent="QjW7vAKMdJou_wqxXe_9-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;A&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="240" x="160" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="QjW7vAKMdJou_wqxXe_9-3" parent="QjW7vAKMdJou_wqxXe_9-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;B&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="240" x="424" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="QjW7vAKMdJou_wqxXe_9-4" parent="QjW7vAKMdJou_wqxXe_9-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;A B&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;Disjoint&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="364" y="550" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="subset" id="ZRyGvcbqMSYLdYPczqvI">
+    <mxGraphModel dx="1398" dy="825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="bB53mS0s34sk2cItfPaU-0" />
+        <mxCell id="bB53mS0s34sk2cItfPaU-1" parent="bB53mS0s34sk2cItfPaU-0" />
+        <mxCell id="OWRUx67WAHMQtyNZEAYA-2" connectable="0" parent="bB53mS0s34sk2cItfPaU-1" style="group" value="" vertex="1">
+          <mxGeometry height="240" width="240" x="203.5" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bB53mS0s34sk2cItfPaU-2" parent="OWRUx67WAHMQtyNZEAYA-2" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&amp;nbsp; &amp;nbsp;A&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bB53mS0s34sk2cItfPaU-3" parent="OWRUx67WAHMQtyNZEAYA-2" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;B&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="126" width="126" x="50" y="29" as="geometry" />
+        </mxCell>
+        <mxCell id="OWRUx67WAHMQtyNZEAYA-8" connectable="0" parent="bB53mS0s34sk2cItfPaU-1" style="group" value="" vertex="1">
+          <mxGeometry height="91" width="451" x="98" y="502" as="geometry" />
+        </mxCell>
+        <mxCell id="OWRUx67WAHMQtyNZEAYA-6" parent="OWRUx67WAHMQtyNZEAYA-8" style="text;whiteSpace=wrap;fontSize=32;align=center;" value="B &lt; A&#xa;B Subset A" vertex="1">
+          <mxGeometry height="91" width="215" x="236" as="geometry" />
+        </mxCell>
+        <mxCell id="OWRUx67WAHMQtyNZEAYA-7" parent="OWRUx67WAHMQtyNZEAYA-8" style="text;whiteSpace=wrap;fontSize=32;align=center;" value="A &gt; B&#xa;A Superset B" vertex="1">
+          <mxGeometry height="91" width="215" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
