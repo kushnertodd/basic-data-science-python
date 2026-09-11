@@ -1,0 +1,56 @@
+New England
+* Connecticut
+* Maine
+* Massachusetts
+* New Hampshire
+* Rhode Island
+* Vermont
+The Southwest
+* Arizona
+* New Mexico
+* Oklahoma
+* Texas
+The Mideast / Mid-Atlantic
+* Delaware
+* Maryland
+* New Jersey
+* New York
+* Pennsylvania
+The Southeast
+* Alabama
+* Arkansas
+* Florida
+* Georgia
+* Kentucky
+* Louisiana
+* Mississippi
+* North Carolina
+* South Carolina
+* Tennessee
+* Virginia
+* West Virginia
+The Midwest
+* Illinois
+* Indiana
+* Iowa
+* Kansas
+* Michigan
+* Minnesota
+* Missouri
+* Nebraska
+* North Dakota
+* Ohio
+* South Dakota
+* Wisconsin
+The West (Mountain & Pacific)
+* Alaska
+* California
+* Colorado
+* Hawaii
+* Idaho
+* Montana
+* Nevada
+* Oregon
+* Utah
+* Washington
+* Wyoming
