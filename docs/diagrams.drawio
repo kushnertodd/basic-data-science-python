@@ -1,4 +1,4 @@
-<mxfile host="Electron" pages="10">
+<mxfile host="Electron" pages="11">
   <diagram name="strings" id="DW446v-XJPdKWD1h_4gd">
     <mxGraphModel dx="966" dy="682" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -536,6 +536,26 @@
         </mxCell>
         <mxCell id="bYAwnftAowUCHSnGTIQc-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;sets A and B&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="430" x="210" y="560" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="sets-1" id="F46ruv4x2lLOa2T425vw">
+    <mxGraphModel dx="966" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="nVEz_l1lVwICeJlGOAFC-0" />
+        <mxCell id="nVEz_l1lVwICeJlGOAFC-1" parent="nVEz_l1lVwICeJlGOAFC-0" />
+        <mxCell id="nVEz_l1lVwICeJlGOAFC-2" parent="nVEz_l1lVwICeJlGOAFC-1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="240" x="160" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="xwuEpi8ziHrsKSiSgNeI-1" parent="nVEz_l1lVwICeJlGOAFC-1" style="text;whiteSpace=wrap;fontSize=32;" value="&quot;apple&quot;" vertex="1">
+          <mxGeometry height="40" width="70" x="270" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="xwuEpi8ziHrsKSiSgNeI-2" parent="nVEz_l1lVwICeJlGOAFC-1" style="text;whiteSpace=wrap;fontSize=32;" value="&quot;banana&quot;" vertex="1">
+          <mxGeometry height="40" width="80" x="223" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="xwuEpi8ziHrsKSiSgNeI-3" parent="nVEz_l1lVwICeJlGOAFC-1" style="text;whiteSpace=wrap;fontSize=32;" value="&quot;cherry&quot;" vertex="1">
+          <mxGeometry height="40" width="80" x="180" y="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
