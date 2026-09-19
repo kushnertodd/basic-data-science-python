@@ -357,7 +357,7 @@
         <mxCell id="QXKA83zk3NIg_x2dpqr0-29" parent="UMNslwFdILuN34c3Ux-T-1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;strokeWidth=5;container=0;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;data state&lt;sub&gt;2&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="245" width="415" x="-57.5" y="1200" as="geometry" />
         </mxCell>
-        <mxCell id="QXKA83zk3NIg_x2dpqr0-30" parent="UMNslwFdILuN34c3Ux-T-1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;&quot;42&quot;&lt;/b&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="QXKA83zk3NIg_x2dpqr0-30" parent="UMNslwFdILuN34c3Ux-T-1" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;True&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="180" y="1350" as="geometry" />
         </mxCell>
         <mxCell id="QXKA83zk3NIg_x2dpqr0-31" parent="UMNslwFdILuN34c3Ux-T-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;p&lt;/b&gt;&lt;/font&gt;" vertex="1">
