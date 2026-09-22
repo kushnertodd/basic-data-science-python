@@ -1,0 +1,2 @@
+- basic_data_science_python_numbers_new.ipynb
+ + add comments + toc to Number Operations
