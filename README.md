@@ -1,6 +1,6 @@
 # basic-data-science-python
 Jupyter site for Basic Data Science Python introduction
-
+ 
 ## Running the Python Jupyter notebook from the Internet
 
 - This runs the notebook from the web. 
