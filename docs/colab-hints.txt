@@ -1,6 +1,0 @@
-
-- toc link
-<a href="#scrollTo=Creating_Strings">...</a>
-
-
-
